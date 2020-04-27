@@ -238,5 +238,71 @@
       "id": "4444444444",
       "status": "発送済み"
     }
+  ],
+  "sku": [
+    {
+      "id": "00001001",
+      "itemName": "フラットシューズ",
+      "sellingPrice": "12000",
+      "makerName": "BEAUTY&YOUTH UNITED ARROWS",
+      "colorName": "パープル",
+      "sizeName": "23cm"
+    },
+    {
+      "id": "00002001",
+      "itemName": "ケーブル編みマフラー",
+      "sellingPrice": "3800",
+      "makerName": "URBAN RESEARCH Sonny Label",
+      "colorName": "ベージュ",
+      "sizeName": "ONE"
+    },
+    {
+      "id": "00003001",
+      "itemName": "ハイネックボリュームニットSS",
+      "sellingPrice": "3190",
+      "makerName": "PAGEBOY",
+      "colorName": "ベージュ",
+      "sizeName": "S"
+    },
+    {
+      "id": "00004001",
+      "itemName": "T/R アーバンミリタリー コーチジャケット",
+      "sellingPrice": "6600",
+      "makerName": "MONO-MART",
+      "colorName": "ブラック",
+      "sizeName": "S"
+    },
+    {
+      "id": "00006001",
+      "itemName": "マルチスリーブブラウス",
+      "sellingPrice": "10780",
+      "makerName": "UNITED TOKYO",
+      "colorName": "ライトベージュ",
+      "sizeName": "S,Mサイズ相当"
+    },
+    {
+      "id": "00007001",
+      "itemName": "SERRANO / セラーノ",
+      "sellingPrice": "8800",
+      "makerName": "ONITSUKA TIGER",
+      "colorName": "ブラック × ホワイト",
+      "sizeName": "23cm"
+    },
+    {
+      "id": "00008001",
+      "itemName": "ストレッチショートブーツ",
+      "sellingPrice": "10450",
+      "makerName": "mystic",
+      "colorName": "ブラック",
+      "sizeName": "23cm"
+    },
+    {
+      "id": "00009001",
+      "itemName": "BY ムートングローブ 19FW ο",
+      "sellingPrice": "7040",
+      "makerName": "BEAUTY&YOUTH UNITED ARROWS",
+      "colorName": "ベージュ",
+      "sizeName": "ONE"
+    }
   ]
 }
