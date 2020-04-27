@@ -242,6 +242,7 @@
   "sku": [
     {
       "id": "00001001",
+      "itemCode": "item00001",
       "itemName": "フラットシューズ",
       "sellingPrice": "12000",
       "makerName": "BEAUTY&YOUTH UNITED ARROWS",
@@ -250,6 +251,7 @@
     },
     {
       "id": "00002001",
+      "itemCode": "item00002",
       "itemName": "ケーブル編みマフラー",
       "sellingPrice": "3800",
       "makerName": "URBAN RESEARCH Sonny Label",
@@ -258,6 +260,7 @@
     },
     {
       "id": "00003001",
+      "itemCode": "item00003",
       "itemName": "ハイネックボリュームニットSS",
       "sellingPrice": "3190",
       "makerName": "PAGEBOY",
@@ -266,6 +269,7 @@
     },
     {
       "id": "00004001",
+      "itemCode": "item00004",
       "itemName": "T/R アーバンミリタリー コーチジャケット",
       "sellingPrice": "6600",
       "makerName": "MONO-MART",
@@ -274,6 +278,7 @@
     },
     {
       "id": "00006001",
+      "itemCode": "item00006",
       "itemName": "マルチスリーブブラウス",
       "sellingPrice": "10780",
       "makerName": "UNITED TOKYO",
@@ -282,6 +287,7 @@
     },
     {
       "id": "00007001",
+      "itemCode": "item00007",
       "itemName": "SERRANO / セラーノ",
       "sellingPrice": "8800",
       "makerName": "ONITSUKA TIGER",
@@ -290,6 +296,7 @@
     },
     {
       "id": "00008001",
+      "itemCode": "item00008",
       "itemName": "ストレッチショートブーツ",
       "sellingPrice": "10450",
       "makerName": "mystic",
@@ -298,6 +305,7 @@
     },
     {
       "id": "00009001",
+      "itemCode": "item00009",
       "itemName": "BY ムートングローブ 19FW ο",
       "sellingPrice": "7040",
       "makerName": "BEAUTY&YOUTH UNITED ARROWS",
