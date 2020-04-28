@@ -26,8 +26,9 @@
             "quantity": 2
           }
         ],
-        "totalPrice": 19750,
-        "shippingFee": 150
+        "subtotal": 19600,
+        "shippingFee": 150,
+        "total": 19750
         },
         {
           "orderNo": "2222222222",
@@ -56,8 +57,9 @@
               "quantity": 1
             }
           ],
-          "totalPrice": 20720,
-          "shippingFee": 150
+          "subtotal": 20570,
+          "shippingFee": 150,
+          "total": 20720
         },
         {
           "orderNo": "3333333333",
@@ -78,8 +80,9 @@
               "quantity": 1
             }
           ],
-          "totalPrice": 8800,
-          "shippingFee": 0
+          "subtotal": 8800,
+          "shippingFee": 0,
+          "total": 8800
         }
       ]
     },
@@ -109,8 +112,9 @@
             "quantity": 1
           }
         ],
-        "totalPrice": 17640,
-        "shippingFee": 150
+        "subtotal": 17490,
+        "shippingFee": 150,
+        "total": 17640
         }
       ]
     }
@@ -141,8 +145,9 @@
             "quantity": 2
           }
         ],
-        "totalPrice": 19750,
-        "shippingFee": 150
+        "subtotal": 19600,
+        "shippingFee": 150,
+        "total": 19750
         }
       ]
     },
@@ -175,8 +180,9 @@
             "quantity": 1
           }
         ],
-        "totalPrice": 20720,
-        "shippingFee": 150
+        "subtotal": 20570,
+        "shippingFee": 150,
+        "total": 20720
         }
       ]
     },
@@ -201,8 +207,9 @@
             "quantity": 1
           }
         ],
-        "totalPrice": 8800,
-        "shippingFee": 0
+        "subtotal": 8800,
+        "shippingFee": 0,
+        "total": 8800
         }
       ]
     },
@@ -231,8 +238,9 @@
             "quantity": 1
           }
         ],
-        "totalPrice": 17640,
-        "shippingFee": 150
+        "subtotal": 17490,
+        "shippingFee": 150,
+        "total": 17640
         }
       ]
     }
