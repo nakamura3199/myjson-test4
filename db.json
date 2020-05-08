@@ -362,28 +362,6 @@
           "subtotal": 20570,
           "shippingFee": 150,
           "total": 20720
-        },
-        {
-          "orderNo": "3333333333",
-          "orderDate": "2020/03/23",
-          "shippingDate": "2020/03/26",
-          "firstName": "太郎",
-          "lastName": "田中",
-          "zip": "540-8622",
-          "address1": "大阪府",
-          "address2": "大阪市中央区城見",
-          "address3": "2長目1番5号",
-          "address4": "オプテージビル",
-          "paymentName": "代金引換",
-          "sku": [
-            {
-              "sku": "00007001",
-              "quantity": 1
-            }
-          ],
-          "subtotal": 8800,
-          "shippingFee": 0,
-          "total": 8800
         }
       ]
     },
