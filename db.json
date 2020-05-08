@@ -82,37 +82,6 @@
           "total": 8800
         }
       ]
-    },
-    {
-      "id": "9999999999",
-      "order": [
-        {
-        "orderNo": "4444444444",
-        "orderDate": "2020/04/01",
-        "shippingDate": "2020/04/05",
-        "firstName": "次郎",
-        "lastName": "田中",
-        "zip": "540-8622",
-        "address1": "大阪府",
-        "address2": "大阪市中央区城見",
-        "address3": "2長目1番5号",
-        "address4": "オプテージビル",
-        "paymentName": "クレジットカード",
-        "sku": [
-          {
-            "sku": "00008001",
-            "quantity": 1
-          },
-          {
-            "sku": "00009001",
-            "quantity": 1
-          }
-        ],
-        "subtotal": 17490,
-        "shippingFee": 150,
-        "total": 17640
-        }
-      ]
     }
   ],
   "order_history_detail": [
@@ -205,36 +174,6 @@
         "total": 8800
         }
       ]
-    },
-    {
-      "id": "4444444444",
-      "order": [
-        {
-        "orderDate": "2020/04/01",
-        "shippingDate": "2020/04/05",
-        "firstName": "次郎",
-        "lastName": "田中",
-        "zip": "540-8622",
-        "address1": "大阪府",
-        "address2": "大阪市中央区城見",
-        "address3": "2長目1番5号",
-        "address4": "オプテージビル",
-        "paymentName": "クレジットカード",
-        "sku": [
-          {
-            "sku": "00008001",
-            "quantity": 1
-          },
-          {
-            "sku": "00009001",
-            "quantity": 1
-          }
-        ],
-        "subtotal": 17490,
-        "shippingFee": 150,
-        "total": 17640
-        }
-      ]
     }
   ],
   "order_status": [
@@ -248,10 +187,6 @@
     },
     {
       "id": "3333333333",
-      "status": "発送済み"
-    },
-    {
-      "id": "4444444444",
       "status": "発送済み"
     }
   ],
@@ -362,6 +297,28 @@
           "subtotal": 20570,
           "shippingFee": 150,
           "total": 20720
+        },
+        {
+          "orderNo": "3333333333",
+          "orderDate": "2020/03/23",
+          "shippingDate": "2020/03/26",
+          "firstName": "太郎",
+          "lastName": "田中",
+          "zip": "540-8622",
+          "address1": "大阪府",
+          "address2": "大阪市中央区城見",
+          "address3": "2長目1番5号",
+          "address4": "オプテージビル",
+          "paymentName": "代金引換",
+          "sku": [
+            {
+              "sku": "00007001",
+              "quantity": 1
+            }
+          ],
+          "subtotal": 8800,
+          "shippingFee": 0,
+          "total": 8800
         }
       ]
     },
