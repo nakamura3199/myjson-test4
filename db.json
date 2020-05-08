@@ -336,5 +336,98 @@
       "colorName": "ベージュ",
       "sizeName": "ONE"
     }
+  ],
+  "order_term": [
+    {
+      "id": "2020",
+      "order": [
+        {
+          "orderNo": "2222222222",
+          "orderDate": "2020/02/10",
+          "shippingDate": "2020/02/13",
+          "firstName": "太郎",
+          "lastName": "田中",
+          "zip": "540-8622",
+          "address1": "大阪府",
+          "address2": "大阪市中央区城見",
+          "address3": "2長目1番5号",
+          "address4": "オプテージビル",
+          "tel": "09099999999",
+          "paymentName": "請求書支払",
+          "sku": [
+            {
+              "sku": "00003001",
+              "quantity": 1
+            },
+            {
+              "sku": "00004001",
+              "quantity": 1
+            },
+            {
+              "sku": "00006001",
+              "quantity": 1
+            }
+          ],
+          "subtotal": 20570,
+          "shippingFee": 150,
+          "total": 20720
+        },
+        {
+          "orderNo": "3333333333",
+          "orderDate": "2020/03/23",
+          "shippingDate": "2020/03/26",
+          "firstName": "太郎",
+          "lastName": "田中",
+          "zip": "540-8622",
+          "address1": "大阪府",
+          "address2": "大阪市中央区城見",
+          "address3": "2長目1番5号",
+          "address4": "オプテージビル",
+          "tel": "09099999999",
+          "paymentName": "代金引換",
+          "sku": [
+            {
+              "sku": "00007001",
+              "quantity": 1
+            }
+          ],
+          "subtotal": 8800,
+          "shippingFee": 0,
+          "total": 8800
+        }
+      ]
+    },
+    {
+      "id": "2019",
+      "order": [
+        {
+        "orderNo": "1111111111",
+        "orderDate": "2019/12/01",
+        "shippingDate": "2019/12/05",
+        "firstName": "太郎",
+        "lastName": "田中",
+        "zip": "540-8622",
+        "address1": "大阪府",
+        "address2": "大阪市中央区城見",
+        "address3": "2長目1番5号",
+        "address4": "オプテージビル",
+        "tel": "09099999999",
+        "paymentName": "クレジットカード",
+        "sku": [
+          {
+            "sku": "00001001",
+            "quantity": 1
+          },
+          {
+            "sku": "00002001",
+            "quantity": 2
+          }
+        ],
+        "subtotal": 19600,
+        "shippingFee": 150,
+        "total": 19750
+        }
+      ]
+    }
   ]
 }
